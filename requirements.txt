@@ -1,0 +1,3 @@
+langchain
+typer
+openai
