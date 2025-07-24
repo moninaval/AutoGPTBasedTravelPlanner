@@ -1,3 +1,5 @@
-langchain
-typer
 openai
+langchain
+langchain-community
+langgraph
+python-dotenv
